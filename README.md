@@ -19,7 +19,7 @@ The Parking System Management program is designed to manage parking information 
 - **Time Module:** The `time` module is used to record and display parking time.
 
 
-## Installation and Usage
+## Installation
 
 1. **Clone the repository:**
    ```bash
